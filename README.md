@@ -1,7 +1,14 @@
 # java-8-final
 
+I create very simple java 8 console application.
+
 How to run : 
  - Run Main.java
+
+Files in the project : 
+ - Main.java (As a main class)
+ - Words.java (Class with static method that used in Main.java class)
+ - WordsTest.java (To test the function of Words.java class)
 
 Choose Menu :
  1. To Create File with automatic file name : words-list.txt. There are few words I put when I create the file like Hello, Put, and Mouse
